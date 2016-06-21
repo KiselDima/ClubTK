@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.js","sourcesContent":["/*global $, jQuery, alert, console*/\r\n(function () {\r\n    \"use strict\";\r\n    $(document).ready(function () {\r\n        console.log('main js');\r\n    });\r\n}());\r\n\r\n\r\n"],"sourceRoot":"/source/"}

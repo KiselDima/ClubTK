@@ -1,0 +1,195 @@
+.sprite {
+    background-image: url(spritesheet.png);
+
+    background-repeat: no-repeat;
+
+    display: block;
+
+}
+
+
+.sprite-icon-arr_select {
+
+    width: 11px;
+
+    height: 10px;
+  
+  background-position: -5px -5px;
+
+}
+
+
+.sprite-icon-arrow {
+ 
+   width: 31px;
+
+    height: 33px;
+ 
+   background-position: -26px -5px;
+
+}
+
+
+.sprite-icon-arrow_hover {
+ 
+   width: 31px;
+
+    height: 33px;
+
+    background-position: -67px -5px;
+
+}
+
+
+.sprite-icon-checkbox {
+
+    width: 17px;
+  
+  height: 17px;
+ 
+   background-position: -108px -5px;
+
+}
+
+
+.sprite-icon-circle-arr {
+ 
+   width: 17px;
+
+    height: 16px;
+
+    background-position: -135px -5px;
+
+}
+
+
+.sprite-icon-circle-arr_active {
+
+    width: 17px;
+ 
+   height: 16px;
+ 
+   background-position: -135px -31px;
+
+}
+
+
+.sprite-icon-fb {
+
+    width: 34px;
+ 
+   height: 33px;
+ 
+   background-position: -5px -57px;
+
+}
+
+
+.sprite-icon-fb_active {
+
+    width: 34px;
+  
+  height: 33px;
+  
+  background-position: -49px -57px;
+
+}
+
+
+.sprite-icon-fb_hover {
+ 
+   width: 34px;
+
+    height: 33px;
+
+    background-position: -93px -57px;
+
+}
+
+
+.sprite-icon-search {
+
+    width: 31px;
+ 
+   height: 33px;
+  
+  background-position: -5px -100px;
+
+}
+
+
+.sprite-icon-search_hover {
+
+    width: 31px;
+ 
+   height: 33px;
+  
+  background-position: -46px -100px;
+
+}
+
+
+.sprite-icon-twit {
+ 
+   width: 34px;
+ 
+   height: 33px;
+  
+  background-position: -87px -100px;
+
+}
+
+
+.sprite-icon-twit_active {
+ 
+   width: 34px;
+  
+  height: 33px;
+ 
+   background-position: -162px -5px;
+
+}
+
+
+.sprite-icon-twit_hover {
+ 
+   width: 34px;
+
+    height: 33px;
+ 
+   background-position: -162px -48px;
+
+}
+
+
+.sprite-icon-vk {
+ 
+   width: 34px;
+  
+  height: 33px;
+ 
+   background-position: -137px -91px;
+
+}
+
+
+.sprite-icon-vk_active {
+
+    width: 34px;
+
+    height: 33px;
+
+    background-position: -131px -134px;
+
+}
+
+
+.sprite-icon-vk_hover {
+ 
+   width: 34px;
+ 
+   height: 33px;
+ 
+   background-position: -206px -5px;
+
+}
